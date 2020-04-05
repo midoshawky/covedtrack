@@ -12,7 +12,7 @@ class DataFetch {
     var URL = Uri.encodeFull(_url);
     var response = await http.get(URL, headers: {
       'x-rapidapi-host': "covid-193.p.rapidapi.com",
-      'x-rapidapi-key': "f70840bebfmshbcdb222173f8562p12619fjsn9bf4bad49d6c"
+      'x-rapidapi-key': "Put your Rapied api key here"
     });
     var body = response.body;
     var convert = json.decode(body);
