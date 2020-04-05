@@ -1,6 +1,10 @@
 # covedtrack
 
-A new Flutter project.
+IOS/Android project created by Flutter
+using GoolgeMaps , [Coved-19 Api]!(https://api-sports.io/documentation/covid-19) beside a flutter skills 
+# Docs 
+i used [Coved-19 Api]!(https://api-sports.io/documentation/covid-19) for that app u can use it easly and know how it works from the previous link,
+
 
 ## Getting Started
 
